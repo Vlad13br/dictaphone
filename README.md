@@ -1,1 +1,1 @@
-# dictaphone
+# Simple GUI dictaphone
